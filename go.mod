@@ -3,7 +3,7 @@ module pkce-poc
 go 1.26.1
 
 require (
-	github.com/auth0/go-jwt-middleware/v3 v3.1.0
+	github.com/auth0/go-jwt-middleware/v3 v3.2.0
 	github.com/spf13/cobra v1.10.2
 	github.com/zalando/go-keyring v0.2.8
 )
@@ -24,6 +24,6 @@ require (
 	github.com/segmentio/asm v1.2.1 // indirect
 	github.com/spf13/pflag v1.0.9 // indirect
 	github.com/valyala/fastjson v1.6.7 // indirect
-	golang.org/x/crypto v0.46.0 // indirect
-	golang.org/x/sys v0.40.0 // indirect
+	golang.org/x/crypto v0.48.0 // indirect
+	golang.org/x/sys v0.42.0 // indirect
 )
